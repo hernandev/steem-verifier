@@ -1,0 +1,12 @@
+# Distribution / packaging
+.Python
+build/
+dist/
+develop-eggs/
+dist/
+*.egg-info/
+*.egg
+
+
+# Installer logs
+pip-log.txt
